@@ -5,7 +5,7 @@
 
 **Course Date:** 01.03.2021
 **Name:** Ali Can  
-**Surname:** Been  
+**Surname:** BEN
 **Email:** alican.ben.97@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  

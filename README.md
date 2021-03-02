@@ -1,5 +1,4 @@
-# GlobalAIHubDLCourse
-# GAIH Student Repo 
+# GlobalAIHubDLCourse Student Repo 
 
 ![](img/logo.png)
 
